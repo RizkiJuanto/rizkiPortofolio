@@ -229,7 +229,7 @@ body{
 .project .maxwidth{
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
 
 }
@@ -270,7 +270,7 @@ body{
     display: flex;
     flex-wrap: wrap;
     align-items: center;
-    justify-content: space-between;
+    justify-content: center;
     width: 700px;
 }
 
@@ -408,7 +408,3 @@ body{
         font-size: 25px;
     }
 }
-
-/* @media(max-width: 823px){
-    
-} */
